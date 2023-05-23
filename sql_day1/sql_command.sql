@@ -1,1 +1,3 @@
-select * from employees;
+Select *
+FROM departments
+WHERE dept_no IS NOT NULL;
